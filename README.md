@@ -6,7 +6,7 @@ This tool helps to find the Password of the PDF irrespective of length that a pa
 
 ### commnds to clone into PDF Bruter
 ```
-git clone https://github.com/EngineerRancho/PDF_bruter
+git clone https://github.com/GauravSharma0560/PDF_bruter
 
 cd PDF_bruter
 
